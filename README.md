@@ -75,7 +75,7 @@ We created temporary tables to analyze and store vaccination coverage data.
 -  This approach allowed for complex queries and analyses to be performed efficiently, enabling deeper insights into vaccination trends and their effects on population health.
 
 ## Key Insights
-![Dashboard](https://github.com/user-attachments/assets/d7b42698-5088-42f2-9074-4a219490a82b)
+![Dashboard](assets/images/Dashboard.png)
 - **Trends Over Time:** Identified significant waves of infections and variations in severity over time.
 - **Geographical Distribution:** Highlighted hotspots and regions with different infection and death rates.
 - **Comparative Analysis:** Compared the effectiveness of responses across countries and correlated vaccination rates with infection rates.
